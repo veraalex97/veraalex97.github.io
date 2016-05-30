@@ -1,0 +1,16 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  padding-top: 280px;
+  text-align: center;
+}
+
+span p a {
+  text-decoration: none;
+}
+
+span.twitter {
+  text-align: center;
+}
